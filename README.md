@@ -33,7 +33,9 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="CSS" width="40" height="40" /></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" width="40" height="40" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" /></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" width="40" height="40" /></a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" width="40" height="40" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="40" height="40" /></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" width="40" height="40" /></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="React" width="40" height="40" /></a>
@@ -42,8 +44,6 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" width="40" height="40" /></a>
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" width="40" height="40" /></a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="Webpack" width="40" height="40" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" /></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" width="40" height="40" /></a>
 </p>
 
 #### Database Management:
