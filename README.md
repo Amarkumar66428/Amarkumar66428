@@ -55,9 +55,9 @@
 
 #### Blockchain:
 <p align="left">
- <p align="left"><a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="Solidity" width="40" height="40" /></a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="Metamask" width="40" height="40" /></a>
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="Ethereum" width="40" height="40" /></a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="Solidity" width="40" height="40" /></a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="Metamask" width="40" height="40" /></a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b" alt="Hardhat" width="40" height="40" /></a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" width="40" height="40" /></a>
 </p>
