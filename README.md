@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amar Kumar</h1>
+<h2 align="center">Hi 👋, I'm Amar Kumar</h2>
 <h3 align="center">Results-driven Engineering Executive with expertise in project optimization, strategic management, and team leadership. Seeking a leadership role to deliver technical excellence and impactful outcomes.</h3>
 
 - 🌱 I’m currently learning **Blockchain, Ethereum, Solidity, and Rust**
