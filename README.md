@@ -1,134 +1,221 @@
-<h2 align="center">Hi 👋, I'm Amar Kumar</h2>
-<h3 align="center">Results-driven Engineering Executive with expertise in project optimization, strategic management, and team leadership. Seeking a leadership role to deliver technical excellence and impactful outcomes.</h3>
+<!-- Dynamic Header Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=300&section=header&text=Amar%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Executive%20%7C%20Full%20Stack%20Developer%20%7C%20Blockchain%20Expert&descAlignY=55&descSize=20"/>
 
-- 🌱 I’m currently learning **Blockchain, Ethereum, Solidity, and Rust**
-
-- 💬 Ask me about **MERN Stack and Blockchain**
-
-- 📫 How to reach me: **amar66428@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-
-#### Programming Languages:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /></a>
-</p>
-
-#### Web Dev:
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40" /></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
-
-</p>
-
-#### JavaScript:
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="CSS" width="40" height="40" /></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" width="40" height="40" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" width="40" height="40" /></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" width="40" height="40" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="React" width="40" height="40" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTML" width="40" height="40" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" width="40" height="40" /></a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" width="40" height="40" /></a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="Webpack" width="40" height="40" /></a>
-</p>
-
-#### Database Management:
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
-</p>
-
-#### Blockchain:
-<p align="left">
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" alt="Ethereum" width="40" height="40" /></a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="Solidity" width="40" height="40" /></a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="Metamask" width="40" height="40" /></a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b" alt="Hardhat" width="40" height="40" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" width="40" height="40" /></a>
-</p>
-
-#### Tools:
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" width="40" height="40" /></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" width="40" height="40" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" width="40" height="40" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" width="40" height="40" /></a>
-</p>
-
-#### Version Control:
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" /></a>
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40" /></a>
-  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" width="40" height="40" /></a>
-</p>
-
-<!-- GitHub Stats Section -->
+<!-- Professional Profile Section -->
 <div align="center">
-📊 GitHub Analytics & Performance
+  
+### 💼 **Engineering Executive & Full Stack Developer**
+*Transforming Ideas into Scalable Solutions | Leading High-Performance Teams | Driving Technical Excellence*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Results-driven+Engineering+Executive;MERN+Stack+%26+Blockchain+Expert;2%2B+Years+in+Software+Development;Building+Next-Gen+Web3+Applications;Leading+Cross-functional+Teams)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- About Me Section -->
+## 🚀 **About Me**
+
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
+
+🎯 **Engineering Executive** with **2+ years** of experience in full-stack development, team leadership, and strategic project management
+
+🌟 **Expertise Areas:**
+- **Full Stack Development** (MERN, Next.js, TypeScript)
+- **Blockchain Technology** (Ethereum, Solidity, Smart Contracts)
+- **Team Leadership** & Project Optimization
+- **System Architecture** & Scalable Solutions
+- **Agile Development** & DevOps Practices
+
+🔥 **Currently Building:**
+- Advanced Web3 DApps with Solidity & Rust
+- High-performance React applications
+- Scalable backend systems with Node.js
+- Blockchain integration solutions
+
+💡 **Leadership Philosophy:** *"Empowering teams to deliver technical excellence while fostering innovation and continuous learning"*
+
+---
+
+<!-- Current Focus Section -->
+## 🎯 **Current Focus**
+
+<div align="center">
+
+| 🌱 **Learning** | 💼 **Building** | 🎯 **Goals 2025** |
+|:---:|:---:|:---:|
+| Advanced Rust Programming | Web3 DeFi Applications | Lead 50+ Developer Team |
+| Ethereum Layer 2 Solutions | Next.js 14 Projects | Launch 3 Blockchain Products |
+| System Design Patterns | Microservices Architecture | Mentor 100+ Developers |
+
+</div>
+
+---
+
+<!-- Skills Section with Enhanced Layout -->
+## 🛠️ **Technical Arsenal**
+
+<details open>
+<summary><b>🚀 Frontend Technologies</b></summary>
+<br>
+<div align="center">
+
+| **Core** | **Frameworks** | **Styling** | **Build Tools** |
+|:---:|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚡ Backend Technologies</b></summary>
+<br>
+<div align="center">
+
+| **Runtime** | **Frameworks** | **Databases** | **Cloud & Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) |
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔗 Blockchain & Web3</b></summary>
+<br>
+<div align="center">
+
+| **Platforms** | **Languages** | **Tools** | **Wallets** |
+|:---:|:---:|:---:|:---:|
+| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) | ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black) | ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white) |
+| ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Truffle](https://img.shields.io/badge/Truffle-8C4A2F?style=for-the-badge&logo=truffle&logoColor=white) | ![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white) |
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔧 Development Tools</b></summary>
+<br>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+</details>
+
+---
+<!-- GitHub Analytics Section -->
+## 📊 **GitHub Analytics & Performance**
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Developer%20Statistics&fontSize=28&fontColor=white&animation=twinkling"/>
+
 <!-- Main Stats Row -->
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amarkumar66428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=amarkumar66428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=Amar's%20GitHub%20Stats"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amarkumar66428&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+        <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=amarkumar66428&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
       </td>
     </tr>
   </table>
 </div>
+
 <!-- Languages and Activity Row -->
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarkumar66428&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarkumar66428&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&custom_title=Most%20Used%20Languages"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarkumar66428&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&title_color=58A6FF"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarkumar66428&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&title_color=58A6FF&custom_title=Contribution%20Activity"/>
       </td>
     </tr>
   </table>
 </div>
+
 <!-- Contribution Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/amarkumar66428/amarkumar66428/output/snake.svg" alt="Snake animation" />
 </div>
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarkumar66428&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
+
 <!-- Advanced Metrics -->
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amarkumar66428&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=amarkumar66428&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&custom_title=Weekly%20Development%20Breakdown"/>
 </div>
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarkumar66428&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/amarkumar66428?label=Followers&style=for-the-badge&color=58A6FF"/>
-</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+---
+
+<!-- Contact & Collaboration Section -->
+## 🤝 **Let's Collaborate!**
+
+<div align="center">
+
+### 💬 **Ready to Build Something Amazing Together?**
+
+**I'm actively seeking opportunities for:**
+- 🚀 **Leadership Roles** in innovative tech companies
+- 🌟 **Technical Consulting** for blockchain & web development projects  
+- 🤝 **Strategic Partnerships** in Web3 & fintech ventures
+- 👨‍🏫 **Mentoring & Speaking** at tech conferences & workshops
+
 </div>
 
+<!-- Contact Methods -->
+<div align="center">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/amk1920"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amk1920" /></a></p><br><br>
+| 📧 **Email** | 💼 **LinkedIn** | 🐦 **Twitter** | 📱 **Schedule Call** |
+|:---:|:---:|:---:|:---:|
+| [![Email](https://img.shields.io/badge/amar66428@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amar66428@gmail.com) | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amarkumar66428) | [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amarkumar66428) | [![Calendly](https://img.shields.io/badge/Book%20Meeting-006BFF?style=for-the-badge&logo=zoom&logoColor=white)](https://calendly.com/amarkumar66428) |
 
+</div>
+
+---
+
+<!-- Support Section -->
+## ☕ **Support My Work**
+
+<div align="center">
+
+If you find my projects helpful or want to support my open-source contributions:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/amk1920)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/amarkumar66428)
+
+</div>
+
+---
+
+<!-- Profile Views & Followers -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amarkumar66428&label=Profile%20Views&color=58A6FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/amarkumar66428?label=Followers&style=for-the-badge&color=58A6FF&logo=github)
+![Stars](https://img.shields.io/github/stars/amarkumar66428?style=for-the-badge&color=58A6FF&logo=github)
+
+</div>
+
+<!-- Dynamic Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+
+---
+
+<div align="center">
+
+**⭐ Star my repositories if you find them interesting!**
+
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+</div>
