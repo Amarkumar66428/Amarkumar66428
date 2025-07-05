@@ -7,7 +7,7 @@
 ### 💼 **Full Stack Developer**
 *Transforming Ideas into Scalable Solutions | Leading High-Performance Teams | Driving Technical Excellence*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Results-driven+Engineering+Executive;MERN+Stack+%26+Blockchain+Expert;2%2B+Years+in+Software+Development;Building+Next-Gen+Web3+Applications;Leading+Cross-functional+Teams)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Results-driven+Software+Developer;MERN+Stack+%26+Blockchain+Expert;2%2B+Years+in+Software+Development;Building+Next-Gen+Web3+Applications;Leading+Cross-functional+Teams)](https://git.io/typing-svg)
 
 </div>
 
