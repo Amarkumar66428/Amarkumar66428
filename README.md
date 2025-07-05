@@ -149,15 +149,6 @@
   <img src="https://raw.githubusercontent.com/amarkumar66428/amarkumar66428/output/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Advanced Metrics -->
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=amarkumar66428&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&custom_title=Weekly%20Development%20Breakdown"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
----
-
 <!-- Contact & Collaboration Section -->
 ## 🤝 **Let's Collaborate!**
 
