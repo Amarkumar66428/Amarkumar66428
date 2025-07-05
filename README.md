@@ -78,11 +78,54 @@
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" width="40" height="40" /></a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=amarkumar66428&show_icons=true&locale=en" alt="amarkumar66428" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarkumar66428&" alt="amarkumar66428" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarkumar66428&show_icons=true&locale=en&layout=compact" alt="amarkumar66428" />
+<!-- GitHub Stats Section -->
+<div align="center">
+📊 GitHub Analytics & Performance
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Developer%20Statistics&fontSize=28&fontColor=white&animation=twinkling"/>
+<!-- Main Stats Row -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amarkumar66428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amarkumar66428&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- Languages and Activity Row -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarkumar66428&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarkumar66428&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&title_color=58A6FF"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amarkumar66428/amarkumar66428/output/snake.svg" alt="Snake animation" />
+</div>
+<!-- Trophy Section -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amarkumar66428&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+</div>
+<!-- Advanced Metrics -->
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=amarkumar66428&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact"/>
+</div>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarkumar66428&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/amarkumar66428?label=Followers&style=for-the-badge&color=58A6FF"/>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
 
 
