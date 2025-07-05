@@ -1,10 +1,10 @@
 <!-- Dynamic Header Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=300&section=header&text=Amar%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Executive%20%7C%20Full%20Stack%20Developer%20%7C%20Blockchain%20Expert&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=300&section=header&text=Amar%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20Expert&descAlignY=55&descSize=20"/>
 
 <!-- Professional Profile Section -->
 <div align="center">
   
-### 💼 **Engineering Executive & Full Stack Developer**
+### 💼 **Full Stack Developer**
 *Transforming Ideas into Scalable Solutions | Leading High-Performance Teams | Driving Technical Excellence*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Results-driven+Engineering+Executive;MERN+Stack+%26+Blockchain+Expert;2%2B+Years+in+Software+Development;Building+Next-Gen+Web3+Applications;Leading+Cross-functional+Teams)](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
 
-🎯 **Engineering Executive** with **2+ years** of experience in full-stack development, team leadership, and strategic project management
+🎯 **Software Developer** with **2+ years** of experience in full-stack development, team leadership, and strategic project management
 
 🌟 **Expertise Areas:**
 - **Full Stack Development** (MERN, Next.js, TypeScript)
