@@ -44,9 +44,9 @@
 
 | 🌱 **Learning** | 💼 **Building** | 🎯 **Goals 2025** |
 |:---:|:---:|:---:|
-| Advanced Rust Programming | Web3 DeFi Applications | Lead 6+ Developer Team |
-| Ethereum Layer 2 Solutions | Next.js 4 Projects | Made 3 Blockchain Products |
-| System Design Patterns | Microservices Architecture |
+| Advanced Rust Programming | Web3 DeFi Applications | Lead 30+ Developer Team |
+| Ethereum Layer 2 Solutions | Next.js 4 Projects | Made 4 Blockchain Products |
+| System Design Patterns | Microservices Architecture | 
 
 </div>
 
