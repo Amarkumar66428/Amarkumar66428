@@ -116,26 +116,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Developer%20Statistics&fontSize=28&fontColor=white&animation=twinkling"/>
 
-<!-- Main Stats Row -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=amarkumar66428&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=Amar's%20GitHub%20Stats"/>
-      </td>
-      <td>
-        <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=amarkumar66428&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Languages and Activity Row -->
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarkumar66428&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&custom_title=Most%20Used%20Languages"/>
+       <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=amarkumar66428&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
       </td>
       <td width="50%">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarkumar66428&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&title_color=58A6FF&custom_title=Contribution%20Activity"/>
