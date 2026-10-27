@@ -7,7 +7,7 @@
 ### 💼 **Full Stack Developer**
 *Transforming Ideas into Scalable Solutions | Leading High-Performance Teams | Driving Technical Excellence*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Results-driven+Software+Developer;MERN+Stack+%26+Blockchain+Expert;2%2B+Years+in+Software+Development;Building+Next-Gen+Web3+Applications;Leading+Cross-functional+Teams)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Results-driven+Software+Developer;MERN+Stack+%26+Blockchain+Expert;3.8+Years+in+Software+Development;Building+Next-Gen+Web3+Applications;Leading+Cross-functional+Teams)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
 
-🎯 **Software Developer** with **2+ years** of experience in full-stack development, team leadership, and strategic project management
+🎯 **Software Developer** with **3.8 years** of experience in full-stack development, team leadership, and strategic project management
 
 🌟 **Expertise Areas:**
 - **Full Stack Development** (MERN, Next.js, TypeScript)
